@@ -1,0 +1,39 @@
+#u65
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(127, 127, 127, 0.36);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(127, 127, 127, 0.36);
+	box-shadow: 6px 6px 8px rgba(127, 127, 127, 0.36);
+	border-style: solid;
+	border-color: #F15A24;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 0px 2px;
+}
+
+#u65_img
+{
+	vertical-align: top;
+	opacity: 0.27;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=27)";
+	filter: alpha(opacity=27);
+}
+
+#u80_img
+{
+	vertical-align: top;
+	opacity: 0.58;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=57.99999999999999)";
+	filter: alpha(opacity=57.99999999999999);
+}
+
+#u80,#u85,#u124
+{
+	position: relative;
+}
+
+#u85_img,#u124_img
+{
+	vertical-align: top;
+}
+
